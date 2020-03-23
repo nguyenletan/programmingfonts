@@ -43,3 +43,5 @@ Thumbs.db
 # NPM #
 ######################
 node_modules
+yarn.lock
+.idea
