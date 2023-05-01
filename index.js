@@ -23,7 +23,7 @@ var filters = {
 };
 
 function selectTheme() {
-    var theme = 'monokai';
+    var theme = 'dracula';
 
     if (input.selectedIndex > -1) {
         theme = input.options[input.selectedIndex].innerHTML;
