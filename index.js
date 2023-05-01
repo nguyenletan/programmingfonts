@@ -86,9 +86,9 @@ function selectLanguage() {
 }
 function setCounter(amount) {
     if (amount === 1) {
-        $('h2 :first-child').text(amount + ' NashTech Programming Font');
+        $('h2 :first-child').text(amount + ' ìnlight Programming Font');
     } else {
-        $('h2 p:first-child').text(amount + ' NashTech Programming Fonts');
+        $('h2 p:first-child').text(amount + ' ìnlight Programming Fonts');
     }
 }
 
